@@ -1,2 +1,0 @@
-# netdisk
-school netdisk
